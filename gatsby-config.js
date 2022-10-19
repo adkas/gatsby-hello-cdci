@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix: "/gatsby-hello-cdci",
   /* Your site config here */
   plugins: [],
 }
