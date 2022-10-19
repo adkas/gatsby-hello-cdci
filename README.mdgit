@@ -1,0 +1,1 @@
+"# gatsby-hello-cdci"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/adkas/gatsby-hello-cdci.gitgit push -u origin main
